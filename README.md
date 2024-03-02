@@ -1,1 +1,1 @@
-# microdata-dataset
+# This repository contains the code for preparing the data for training model used in (https://github.com/i-timur/annotate-with-repository)[this repository]
